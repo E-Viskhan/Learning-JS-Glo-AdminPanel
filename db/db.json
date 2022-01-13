@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Расул",
+      "email": "rasul.millioner@gmail.com",
+      "children": true,
+      "permissions": true,
+      "id": 4
+    },
+    {
+      "name": "Рахман",
+      "email": "rasul.millioner@gmail.com",
+      "children": true,
+      "permissions": false,
+      "id": 6
+    }
+  ]
+}
